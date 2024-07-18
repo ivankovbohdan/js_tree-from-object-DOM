@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;ACAA;;;;;;;ACIA","sources":["src/styles/utils/_extends.scss","src/styles/_fonts.scss","src/styles/main.scss"],"sourcesContent":[null,null,"@import 'utils';\n@import 'fonts';\n@import 'typography';\n\nbody {\n  background: $c-gray;\n}\n"],"names":[],"version":3,"file":"index.971c2ea4.css.map","sourceRoot":"/__parcel_source_root/"}
